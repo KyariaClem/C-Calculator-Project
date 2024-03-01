@@ -24,6 +24,19 @@ Console.WriteLine($"WoW ! You have {currentKids} and you want {futureKids}, you 
 
 switch(totalKids)
 {
-    case < 0:
+    case <= 0:
+    Console.WriteLine("what a kid-free life of unlimtedless travel and sleep !");
+    break;
+
+    case <= 1:
+    Console.WriteLine("One and Done !");
+    break;
+
+    case <=2:
+    Console.WriteLine("Built in friends !");
+    break;
+
+    case >= 3:
+    Console.WriteLine("3 or more is so sweet !");
     break;
 }

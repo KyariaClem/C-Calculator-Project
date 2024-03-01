@@ -12,3 +12,4 @@
 /Users/kyariaclemons/Desktop/kyaria-webdev/C#Calculator-Project/obj/Debug/net8.0/C#Calculator-Project.pdb
 /Users/kyariaclemons/Desktop/kyaria-webdev/C#Calculator-Project/obj/Debug/net8.0/C#Calculator-Project.genruntimeconfig.cache
 /Users/kyariaclemons/Desktop/kyaria-webdev/C#Calculator-Project/obj/Debug/net8.0/ref/C#Calculator-Project.dll
+/Users/kyariaclemons/Desktop/kyaria-webdev/C#Calculator-Project/obj/Debug/net8.0/C#Calculator-Project.sourcelink.json
