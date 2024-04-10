@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.Marshalling;
 
 Console.WriteLine("Welcome to Kyaria's C# Calculator!");
@@ -40,3 +41,9 @@ switch(totalKids)
     Console.WriteLine("3 or more is so sweet !");
     break;
 }
+
+// pets
+Console.WriteLine("Do you have any pets ?");
+string inputPets = Console.ReadLine();
+int numOfPets = int.Parse(inputPets);
+
